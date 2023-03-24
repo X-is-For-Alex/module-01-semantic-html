@@ -16,3 +16,5 @@ AD
 - made multiple commits
 - updated readme
 - pushed files to github
+
+![screenshot](./assets/images/screenshot.png)
